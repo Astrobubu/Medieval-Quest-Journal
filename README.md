@@ -10,8 +10,7 @@ A medieval‑inspired quest tracker with a rich 3‑column UI (cards → list �
 
 
 ## Demo & Screenshot
-
-[Medieval Quest Journal](https://medievalquestmanager.up.railway.app/)
+Try it out!: [Medieval Quest Journal](https://medieval-quest-journal.vercel.app/)
 
 ![Screenshot](screenshot.png) 
 
